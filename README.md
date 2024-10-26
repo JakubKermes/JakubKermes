@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I've been working mainly in PHP Laravel, but also in some python projects. 
+
+My programming journey went from Scratch, through C++, Arduino to Java, Python and finally PHP with Laravel which i have the most experiene in.
+
+Right now im developing Android app in Flutter for my Engineer's Thesis. 
+
+I'd gladly collaborate on some projects (pls be backend😊, I can do some work on frontend, but my design's are terrible 🤦).
+
+You can find and message me on [Linkedin](https://www.linkedin.com/in/jakub-kermes-b8486b268/) (Jakub Kermes).
+
 <!--
 **JakubKermes/JakubKermes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
